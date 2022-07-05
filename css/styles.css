@@ -1,0 +1,114 @@
+body, html {
+  height: 100%;
+  color: #000;
+}
+#home {
+  margin-bottom: 700px;
+}
+.first-look {
+  position: relative;
+  padding: 0;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+/* //https://source.unsplash.com/user/c_v_r/1366x768 */
+.bg-image {
+  /* Full height */
+  height: 100%;
+  width: 100%;
+  filter: blur(5px);
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+.brand-font {
+  font-family: 'Rubik Moonrocks';
+  font-size: 1.5rem;
+}
+
+/* .navbar {
+  margin-bottom: 2rem;
+} */
+.cont {
+  padding: 3.5rem 0 0 0;
+  margin: 0 0 2rem;
+}
+
+.my-img {
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 15rem;
+}
+
+span {
+  font-weight: bold;
+}
+
+h1 {
+  color: #fff;
+  font-weight: lighter;
+  margin-top: 1rem;
+  position: absolute;
+  top: 25rem;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.social-media {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 30rem;
+  text-align: center;
+}
+
+.media {
+  margin: 1rem 1.5rem;
+}
+
+.linkedin {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.instagram {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.github {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.facebook {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.abt-me {
+  color: #fff;
+}
+
+p {
+  font-size: 1rem;
+  text-align: center;
+}
